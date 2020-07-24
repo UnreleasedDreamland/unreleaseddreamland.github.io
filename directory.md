@@ -14,5 +14,5 @@ This is links to the folders containing the songs, they are sorted by artist.
 ![Lil Tecca album cover](/assets/images/liltecca.jpg "Lil Tecca, 25 songs")
 
 [1]: https://mega.nz/folder/iEYxCIAY#jaWGGCfjgqofaHDcSNY-Nw
-[2]: https://mega.nz/folder/CJh2XAqI#JaKtD32HuLLZNe1shAwjLw
-[3]: https://mega.nz/folder/Lc4QzSrA#S_vRdc6zFkQvBAW6Es7n5Q
+[3]: https://mega.nz/folder/CJh2XAqI#JaKtD32HuLLZNe1shAwjLw
+[2]: https://mega.nz/folder/Lc4QzSrA#S_vRdc6zFkQvBAW6Es7n5Q
