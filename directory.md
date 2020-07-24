@@ -9,3 +9,6 @@ This is links to the folders containing the songs, they are sorted by artist.
 
 ## Lil Uzi Vert
 <img alt="Lil Uzi Vert album cover" src="/assets/images/liluzivert.jpg" style="width:480px; height:360px;" title="Lil Uzi Vert, 187 songs"/>
+
+## Lil Tecca
+![Lil Tecca album cover](/assets/images/liltecca.jpg "Lil Tecca, 25 songs")
