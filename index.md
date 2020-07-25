@@ -20,4 +20,4 @@ This is a site which collects unreleased songs and hosts them on MEGA.
 Join our [Discord][2] for updates and to submit releases to uploaders.
 
 [1]: https://unreleaseddreamland.github.io
-[2]: https://www.discord.com
+[2]: https://discord.gg/yU5FacG 
