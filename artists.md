@@ -23,7 +23,7 @@ This is links to the folders containing the songs, they are sorted by artist.
 ![XXXTentacion album cover](/assets/images/xxxtentacion.jpg "XXXTentacion, 13 songs")
 
 ## [YNW Melly][6]
-![YNW Melly album cover](/assets/images/ynwmelly.jpg "YNW Melly, 12 songs")
+<img alt="YNW Melly album cover" src="/assets/images/ynwmelly.jpg" style="width:480px; height:360pz;" title="YNW Melly, 12 songs")
 
 [1]: https://mega.nz/folder/iEYxCIAY#jaWGGCfjgqofaHDcSNY-Nw
 [3]: https://mega.nz/folder/CJh2XAqI#JaKtD32HuLLZNe1shAwjLw
