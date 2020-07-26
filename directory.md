@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Directory
+title: Artists
 ---
 This is links to the folders containing the songs, they are sorted by artist.
 
@@ -19,6 +19,9 @@ This is links to the folders containing the songs, they are sorted by artist.
 ## [NLE Choppa][5]
 ![NLE Choppa album cover](/assets/images/nlechoppa.jpg "NLE Choppa, 4 songs")
 
+## [XXXTentacion][7]
+![XXXTentacion album cover](/assets/images/xxxtentacion.jpg "XXXTentacion, 13 songs")
+
 ## [YNW Melly][6]
 ![YNW Melly album cover](/assets/images/ynwmelly.jpg "YNW Melly, 12 songs")
 
@@ -28,3 +31,4 @@ This is links to the folders containing the songs, they are sorted by artist.
 [4]: https://mega.nz/folder/vcw1iAKD#1c2Jb0AbJt9eiie92m1aJw
 [5]: https://mega.nz/folder/ORhTlA5L#KhTN6u9hWJ6OUe6WwEmiPQ
 [6]: https://mega.nz/folder/rF4BWaZI#ObJqVgLMqQPlfAeX_FFhnw
+[7]: https://mega.nz/folder/6MoHRKwT#pKXxlVz9oHPme_B91m1JaQ
